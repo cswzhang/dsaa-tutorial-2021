@@ -1,20 +1,20 @@
 ## Roles in Networks - Foundations, Methods and Applications
 
-### Abstract
+### <center>Abstract</center>
 Networks (or graphs) are widely used in representing complex relationships among entities. Nodes may function as the center, peripheral, clique or bridge. Role analytics is an important task in graph mining and can shed light on a variety of applications in networks. Thus, it has been studied by social scientists, database researchers and data mining community.
 
 This tutorial aims to give a comprehensive discussion of role analytics in networks including role discovery, role-oriented network embedding and role-based applications. We first briefly revisit the basic concepts of equivalence relations which lay the foundation for later research on role analytics. Then we discuss the categorization of existing approaches for role discovery and overview some representative, distinct, and popular approaches for each category. Moreover, we focus on role-oriented network embedding approaches and propose a two-level categorization to better classify existing methods. Finally, we point out the challenges and future directions.
 
-### Scope
+### <center>Scope</center>
 The goal of this tutorial is to offer a comprehensive presentation of role analytics in networks with focuses on role discovery, role-oriented network embedding and role-based applications. Specifically, it includes basic concepts of structural roles, representative approaches from both sociology and computer science, role-oriented network embedding approaches, and challenges and future directions. Role analytics is an exciting research topic studied by social scientists, database researchers and data mining community. This tutorial focuses on presenting state-of-the-art computational approaches for role analytics showing the connections across data mining, database and social science.
 
-### Slides
+### <center>Slides</center>
 Coming soon...
 
-### Schedule
+### <center>Schedule</center>
 TBD
 
-### Tutorial Organizers
+### <center>Tutorial Organizers</center>
 
 [Dr. Yulong Pei](https://ylpei.github.io/) is a postdoctoral researcher with Department of Mathematics and Computer Science, Eindhoven University of Technology (TU/e). He received his Ph.D. (cum laude) in Computer Science from TU/e in February 2020. His research interests cover graph mining, network embedding, and text mining. He has over 30 publications including papers in top conferences, such as ICML, AAAI, CIKM, and COLING and IJCAI, and journals, such as DMKD and TKDE. He has served as the PC member of top-tier conferences including NeurIPS, ICML, AAAI, IJCAI and ECMLPKDD, and the regular reviewer for prestigious journals like TKDE and TKDD.
 
@@ -28,9 +28,9 @@ Mr. Xuan Guo received the Bachelor degree in Computer Science from Tianjin Unive
 
 
 
-### Questions?
-Contact roles.in.networks@gmail.com to get more information on the tutorial
+### <center>Questions?</center>
+*<center>Contact roles.in.networks@gmail.com to get more information on the tutorial</center>*
 
 ***
 
-*Tutorial@DSAA2021: Roles in Networks - Foundations, Methods and Applications*
+Tutorial@DSAA2021: Roles in Networks - Foundations, Methods and Applications
