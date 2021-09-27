@@ -33,4 +33,4 @@ Mr. Xuan Guo received the Bachelor degree in Computer Science from Tianjin Unive
 
 ***
 
-Tutorial@DSAA2021: Roles in Networks - Foundations, Methods and Applications
+Tutorial@ICDM2021: Roles in Networks - Foundations, Methods and Applications
