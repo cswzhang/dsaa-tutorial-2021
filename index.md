@@ -12,7 +12,40 @@ The goal of this tutorial is to offer a comprehensive presentation of role analy
 Coming soon...
 
 ### <center>Schedule</center>
-TBD
+1. Introduction [15 min]
+- Overview of role analytics in networks
+- Relation between roles and communities
+
+2. Preliminaries [20 min]
+- Basic concepts of role equivalences
+- Different taxonomies of role analytic methods
+
+3. Taxonomy of Role Analytic Methods [25min]
+- Equivalence-based methods
+- Similarity-based methods
+- Blockmodel-based methods
+- Feature-based methods
+- Embedding-based methods
+
+4. Role-oriented Embedding Methods [30 min]
+- Low-rank matrix factorization methods
+- Random walk based methods
+- Deep learning methods
+
+5. Role-based Applications [25 min]
+- Social role detection
+- Role-enhanced Community Detection
+- Network dynamics analysis
+- Role-oriented Graph Neural Networks
+
+6. Challenges and Future Directions [20 min]
+- Interpretable roles analytics
+- Role analytics in different types of networks
+- Evaluation on role discovery
+- Joint role and community Detection
+- Role representation in non-Euclidean space
+- Construction of larger-scale benchmarks
+
 
 ### <center>Tutorial Organizers</center>
 
