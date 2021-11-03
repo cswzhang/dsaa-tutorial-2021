@@ -9,7 +9,7 @@ This tutorial aims to give a comprehensive discussion of role analytics in netwo
 The goal of this tutorial is to offer a comprehensive presentation of role analytics in networks with focuses on role discovery, role-oriented network embedding and role-based applications. Specifically, it includes basic concepts of structural roles, representative approaches from both sociology and computer science, role-oriented network embedding approaches, and challenges and future directions. Role analytics is an exciting research topic studied by social scientists, database researchers and data mining community. This tutorial focuses on presenting state-of-the-art computational approaches for role analytics showing the connections across data mining, database and social science.
 
 ### <center>Slides</center>
-[ICDM - Roles Analytics in Networks](https://raw.githubusercontent.com/cswzhang/icdm-tutorial-2021/gh-pages/ICDM%20-%20Roles%20Analytics%20in%20Networks.pdf)
+[ICDM - Roles Analytics in Networks (Prelimary version)](https://raw.githubusercontent.com/cswzhang/icdm-tutorial-2021/gh-pages/ICDM%20-%20Roles%20Analytics%20in%20Networks.pdf)
 
 ### <center>Schedule</center>
 1. Introduction [15 min]
