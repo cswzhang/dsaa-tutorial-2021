@@ -9,7 +9,7 @@ This tutorial aims to give a comprehensive discussion of role analytics in netwo
 The goal of this tutorial is to offer a comprehensive presentation of role analytics in networks with focuses on role discovery, role-oriented network embedding and role-based applications. Specifically, it includes basic concepts of structural roles, representative approaches from both sociology and computer science, role-oriented network embedding approaches, and challenges and future directions. Role analytics is an exciting research topic studied by social scientists, database researchers and data mining community. This tutorial focuses on presenting state-of-the-art computational approaches for role analytics showing the connections across data mining, database and social science.
 
 ### <center>Slides</center>
-Coming soon...
+[ICDM - Roles Analytics in Networks](https://raw.githubusercontent.com/cswzhang/icdm-tutorial-2021/gh-pages/ICDM%20-%20Roles%20Analytics%20in%20Networks.pdf)
 
 ### <center>Schedule</center>
 1. Introduction [15 min]
@@ -52,6 +52,8 @@ Coming soon...
 [Asst. Prof. Yulong Pei](https://ylpei.github.io/) is an assistant professor with Department of Mathematics and Computer Science, Eindhoven University of Technology (TU/e). He received his Ph.D. (cum laude) in Computer Science from TU/e in February 2020. His research interests cover graph mining, network embedding, and text mining. He has over 30 publications including papers in top conferences, such as ICML, AAAI, CIKM, and COLING and IJCAI, and journals, such as DMKD and TKDE. He has served as the PC member of top-tier conferences including NeurIPS, ICML, AAAI, IJCAI and ECMLPKDD, and the regular reviewer for prestigious journals like TKDE and TKDD.
 
 [Dr. Pengfei Jiao](https://scholar.google.com/citations?user=HaNhbi4AAAAJ) is a lecture with the Center of Biosafety Research and Strategy of Tianjin University. He received the Ph.D. degree in computer science from Tianjin University, Tianjin, China, in 2018. His current research interests include complex network analysis, data mining and graph neural network, and currently working on temporal community detection, link prediction, network embedding, recommender systems and applications of statistical network model. He has published more than 50 international journals and conference papers. 
+
+[Dr. Akrati Saxena](https://scholar.google.co.in/citations?user=HXHLTIgAAAAJ&hl=en) is a Research Fellow at the Department of Mathematics and Computer Science, Eindhoven University of Technology (TU/e), Netherlands. She received her Ph.D. in Computer Science and Engineering from IIT Ropar, India. Her research interests cover social network analysis, complex networks, computational social science, and Fairness. She has worked extensively at Network Science and Data Science and has published at well known conferences and journals related to Network Science including ASONAM, Complex Networks, SNAM, JCSS.
 
 [Mr. Xuan Guo](https://scholar.google.com/citations?user=-AEhDVMAAAAJ) received the Bachelor degree in Computer Science from Tianjin University. He is pursuing a doctoral degree at the College of Intelligence and Computing, Tianjin University, P. R. China. His current research interests include complex network analysis, role discovery, network representation learning and percolation model.
 
